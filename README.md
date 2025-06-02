@@ -1,0 +1,3 @@
+# IQC Assistant
+
+An interactive quality-control (QC) system for seismic data using Model Context Protocol (MCP) to access the dataset, process and plot and large language models (LLMs) for choosing instruction for the MCP and interpreting the plots. IQC Assistant enables geoscientists to load, inspect, and process SEG-Y dataset remembering user annotations and preferences—to generate smarter, feedback-driven QC workflows.
